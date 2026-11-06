@@ -1,0 +1,5 @@
+.DS_Store
+data/
+results/
+results_backup/
+gdc-client
